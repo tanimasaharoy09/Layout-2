@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: brown;
+    text-align: center;
+    height: 100px;
+
+}
+.banner{
+    background-color: coral;
+    height: 300px;
+    text-align: center;
+
+}
+.contant_1st{
+    overflow: hidden;
+    text-align: center;
+}
+.left_contant{
+    background-color: hotpink;
+    width: 50%;
+    height: 300px;
+    float: left;
+
+}
+.right_contant{
+    background-color: mediumspringgreen;
+    width: 50%;
+    height: 300px;
+    float: left;
+
+
+}
+.contant_2nd{
+    overflow: hidden;
+    text-align: center;
+
+}
+.long_contant{
+    background-color: dodgerblue;
+    width: 70%;
+    height: 200px;
+    float: left;
+
+}
+.short_contant{
+    background-color: indianred;
+    width: 30%;
+    height: 200px;
+    float: left;
+
+}
+.client{
+    overflow: hidden;
+    text-align: center;
+    
+
+}
+.one{
+    background-color: olivedrab;
+    width: 25%;
+    float: left;
+    height: 100px;
+
+}
+.two{
+    background-color: orangered;
+    width: 25%;
+    float: left;
+    height: 100px;
+
+}
+.three{
+    width: 25%;
+    float: left;
+    background-color: palevioletred;
+    height: 100px;
+
+}
+.four{ 
+    width: 25%;
+    float: left;
+    background-color: darkturquoise;
+    height: 100px;
+
+}
+footer{
+    background-color: darkslateblue;
+    height: 100px;
+    text-align: center;
+}
